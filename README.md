@@ -1,0 +1,1 @@
+pnpm/Vite/React/Typescript-SWC/TailwindCSS/Vitest Project Template.
